@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['items']
+
+roboflow:
+  workspace: crackdetection-owfgz
+  project: custom-workflow-object-detection-rurvq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/crackdetection-owfgz/custom-workflow-object-detection-rurvq/dataset/1

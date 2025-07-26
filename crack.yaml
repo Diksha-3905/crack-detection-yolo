@@ -1,0 +1,6 @@
+path: C:/Users/ACER/Desktop/deformation-detection/Concrete Crack Images for Classification/dataset
+train: images/train
+val: images/val
+
+names:
+  0: crack
