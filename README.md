@@ -105,7 +105,7 @@ You can train with public crack datasets like:
 ```
 @misc{crack_detection_yolo,
   title = {Crack Detection using YOLO},
-  author = {Diksha-3905},
+  authors = {sarveshprjs, Diksha-3905},
   year = {2025},
   url = {https://github.com/Diksha-3905/crack-detection-yolo}
 }
